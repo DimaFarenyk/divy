@@ -1,0 +1,23 @@
+.wrapper{
+  padding: 20px 0;
+  background-color: #7952b3;
+}
+.wrapper a {
+  color: white;
+}
+.wrapper a:hover {
+  color: cornflowerblue;
+}
+
+.wrapper li{
+  margin: 0 30px;
+}
+.menu{
+  padding: 20px 0;
+  width: 220px;
+  background-color: lawngreen;
+  ;
+}
+.menu a:hover{
+  color: white;
+}
